@@ -7,6 +7,7 @@ import hack from "../src/img/hack.png";
 import firebase from "../src/img/firebase.png";
 import nft from "../src/img/nft.png";
 import book from "../src/img/book.jpeg";
+import game from "../src/img/game.jpeg";
 
 
 export const products = [
@@ -19,40 +20,45 @@ export const products = [
   {
     id: 2,
     img: hack,
-    link: "https://youtu.be/n8xoBIX-fLk",
+    link: "https://decentralandescrow.herokuapp.com/",
   },
   {
     id: 3,
+    img: game,
+    link: "https://planeflappy.herokuapp.com/",
+  },
+  {
+    id: 4,
     img: nft,
     link: "https://testnets.opensea.io/assets/yogafire-mutant-creatures/",
   },
   {
-    id: 4,
+    id: 5,
     img:ninja,
     link: "https://www.udemy.com/course/aws-ninja",
   },
   {
-    id: 5,
+    id: 6,
     img:devpost,
     link: "https://devpost.com/software/marketplace-bot",
   },
   {
-    id: 6,
+    id: 7,
     img: firebase,
     link: "https://commplatform-e0d04.firebaseapp.com/",
   },
   {
-    id: 7,
+    id: 8,
     img: book,
     link: "https://www.amazon.in/Simply-Cell-Rajat-Ratewal-ebook/dp/B086RP93SW",
   },
   {
-    id: 8,
+    id: 9,
     img: climate,
     link: "https://yogafireguru.herokuapp.com/",
   },
   {
-    id: 9,
+    id: 10,
     img: fab,
     link: "http://fabacademy.org/2019/labs/akgec/students/rajat-ratewal/projects/projectpresentation/",
   },
