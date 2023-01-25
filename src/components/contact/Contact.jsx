@@ -51,7 +51,7 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              India, Delhi Najafgarh 110043
+              Edinburgh, United Kingdom EH64QR
             </div>
           </div>
         </div>
