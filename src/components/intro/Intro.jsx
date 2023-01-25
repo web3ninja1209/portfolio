@@ -18,7 +18,7 @@ const Intro = () => {
             </div>
           </div>
           <p className="i-desc">
-          Hi, I’m Rajat Ratewal! You may know of my work as CEO and Founder of <a className="i-anchor" href="https://yogafireguru.herokuapp.com/">YogaFire.Guru</a>. Or my book <a className="i-anchor" href="https://www.amazon.in/Simply-Cell-Rajat-Ratewal-ebook/dp/B086RP93SW">Simply A Cell</a>, My <a className="i-anchor" href="https://www.udemy.com/course/aws-ninja/">AWS Ninja course</a>  or via my recent love for Web 3.0.
+          Hi, I’m Rajat Ratewal! You may know of my work as CEO and Founder of <a className="i-anchor" href="http://www.yogafire.guru/">YogaFire.Guru</a>. Or my book <a className="i-anchor" href="https://www.amazon.in/Simply-Cell-Rajat-Ratewal-ebook/dp/B086RP93SW">Simply A Cell</a>, My <a className="i-anchor" href="https://www.udemy.com/course/aws-ninja/">AWS Ninja course</a>  or via my recent love for Web 3.0.
           <br/>
           <br/>
           If you want to work on web3.0 and become a Ninja, or if you are someone who is passionate about solving climate emergency or you just want to explore depth of your being please join my <a className="i-anchor" href="https://www.youtube.com/channel/UChwdfzEgOtpadYTXEcKedNQ">YouTube Channel</a>

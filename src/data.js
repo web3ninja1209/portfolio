@@ -67,7 +67,7 @@ export const products = [
   {
     id: 11,
     img: climate,
-    link: "https://yogafireguru.herokuapp.com/",
+    link: "http://www.yogafire.guru/",
   },
   {
     id: 12,
