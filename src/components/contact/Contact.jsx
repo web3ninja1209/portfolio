@@ -41,10 +41,7 @@ const Contact = () => {
         <div className="c-left">
           <h1 className="c-title">Let's discuss your project</h1>
           <div className="c-info">
-            <div className="c-info-item">
-              <img src={Phone} alt="" className="c-icon" />
-              +91 8800335605
-            </div>
+            
             <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
               web3ninja1209@gmail.com
