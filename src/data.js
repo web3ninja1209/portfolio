@@ -19,7 +19,7 @@ export const products = [
     img: hack,
     link: "https://escrowmetaverse.onrender.com",
   },
-  {
+  /*{
     id: 2,
     img: opensea,
     link: "https://yogafirenftmarket.herokuapp.com/",
@@ -33,7 +33,7 @@ export const products = [
     id: 4,
     img: game,
     link: "https://planeflappy.herokuapp.com/",
-  },
+  },*/
   {
     id: 5,
     img: nft,
