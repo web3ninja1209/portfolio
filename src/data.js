@@ -17,7 +17,7 @@ export const products = [
   {
     id:1,
     img: hack,
-    link: "https://decentralandescrow.herokuapp.com/",
+    link: "https://escrowmetaverse.onrender.com",
   },
   {
     id: 2,
